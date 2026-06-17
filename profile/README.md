@@ -7,7 +7,29 @@ GlobTek is a world-class power systems solutions provider, designing and manufac
 
 ---
 
+## 🏭 About GlobTek
+
+GlobTek designs and manufactures power solutions from its headquarters in Northvale, NJ, with manufacturing facilities in Suzhou, China and sales offices across Europe. Products carry UL, cUL/CSA, VDE, TÜV, CE, and T-Mark certifications, with Energy Star and RoHS-compliant designs available across a wide range of applications — from medical systems to industrial equipment.
+
+- 🌐 **Website:** [globtek.com](https://www.globtek.com)
+- 📞 **Phone:** 201-784-1000
+- 📧 **Email:** [sales@globtek.us](mailto:sales@globtek.us)
+- 📍 **Address:** 186 Veterans Drive, Northvale, NJ 07647
+
+---
+
 ## 🗂️ Repository Index
+
+### 📋 Standards & Guidelines
+
+Documentation and standards governing how the EE team works in GitHub.
+
+| Repository | Description | Status |
+|---|---|---|
+| [globtek-github-guidelines](https://github.com/GlobTek-Engineering/globtek-github-guidelines) | Internal GitHub usage standards, branching conventions, and workflow guidelines | 🔒 Private |
+
+---
+
 
 ### 🔋 Product Repositories
 
@@ -20,7 +42,7 @@ These repositories track engineering work, issues, and documentation for specifi
 
 ---
 
-### 🛠️ Internal Tools & Automation
+### 🛠️ Internal Tools & Other
 
 Tooling built and maintained by the EE team to support engineering workflows.
 
@@ -31,30 +53,8 @@ Tooling built and maintained by the EE team to support engineering workflows.
 
 ---
 
-### 📋 Standards & Guidelines
-
-Documentation and standards governing how the EE team works in GitHub.
-
-| Repository | Description | Status |
-|---|---|---|
-| [globtek-github-guidelines](https://github.com/GlobTek-Engineering/globtek-github-guidelines) | Internal GitHub usage standards, branching conventions, and workflow guidelines | 🔒 Private |
-| [.github](https://github.com/GlobTek-Engineering/.github) | Organization profile and shared GitHub configuration | 🌐 Public |
-
----
-
-## 🏭 About GlobTek
-
-GlobTek designs and manufactures power solutions from its headquarters in Northvale, NJ, with manufacturing facilities in Suzhou, China and sales offices across Europe. Products carry UL, cUL/CSA, VDE, TÜV, CE, and T-Mark certifications, with Energy Star and RoHS-compliant designs available across a wide range of applications — from medical systems to industrial equipment.
-
-- 🌐 **Website:** [globtek.com](https://www.globtek.com)
-- 📞 **Phone:** 201-784-1000
-- 📧 **Email:** [sales@globtek.us](mailto:sales@globtek.us)
-- 📍 **Address:** 186 Veterans Drive, Northvale, NJ 07647
-
----
-
 ## 🔐 Access & Contributions
 
 Most repositories in this organization are private and intended for internal GlobTek engineering use. Access is managed by the EE team. If you are a GlobTek employee and need access to a specific repository, contact your team lead or the repository owner.
 
-For questions about public-facing content or open-source collaboration, reach out via [globtek.com](https://www.globtek.com/en/contact).
+For questions about public-facing content or open-source collaboration, reach out via [marroccof@globtek.us](marroccof@globtek.us).
