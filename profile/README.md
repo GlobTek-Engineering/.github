@@ -11,7 +11,7 @@ Documentation and standards governing how the EE team works in GitHub.
 
 | Repository | Description | Status |
 |---|---|---|
-| [globtek-github-guidelines](https://github.com/GlobTek-Engineering/globtek-github-guidelines) | Internal GitHub usage standards, branching conventions, and workflow guidelines | 🔒 Private |
+| [globtek-github-guidelines](https://github.com/GlobTek-Engineering/globtek-github-guidelines) | Internal GitHub usage standards, branching conventions, and workflow guidelines | 🔓 Public |
 
 ---
 
