@@ -1,22 +1,7 @@
 # GlobTek Engineering
 
 **GlobTek, Inc. — Electrical Engineering Department**  
-Northvale, NJ · [globtek.com](https://www.globtek.com) · [LinkedIn](https://www.linkedin.com/company/globtek)
 
-GlobTek is a world-class power systems solutions provider, designing and manufacturing switch-mode and linear power supplies, battery packs, cable assemblies, and custom power solutions. This GitHub organization is maintained by the GlobTek Electrical Engineering team and serves as the central hub for internal tooling, product documentation, reporting infrastructure, and engineering guidelines.
-
----
-
-## 🏭 About GlobTek
-
-GlobTek designs and manufactures power solutions from its headquarters in Northvale, NJ, with manufacturing facilities in Suzhou, China and sales offices across Europe. Products carry UL, cUL/CSA, VDE, TÜV, CE, and T-Mark certifications, with Energy Star and RoHS-compliant designs available across a wide range of applications — from medical systems to industrial equipment.
-
-- 🌐 **Website:** [globtek.com](https://www.globtek.com)
-- 📞 **Phone:** 201-784-1000
-- 📧 **Email:** [sales@globtek.us](mailto:sales@globtek.us)
-- 📍 **Address:** 186 Veterans Drive, Northvale, NJ 07647
-
----
 
 ## 🗂️ Repository Index
 
